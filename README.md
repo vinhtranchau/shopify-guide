@@ -1,4 +1,4 @@
-# vue-bookshop
+# Shopify-Guide
 
 ## Project setup
 ```
